@@ -50,7 +50,7 @@ const typed = new Typed(".multiple-text", {
     loop: true
 });
 
-document.querySelector("form[action='#']").addEventListener("submit", function(event) {
+document.getElementById("myForm").addEventListener("submit", function (event) {
     event.preventDefault(); 
 
     Swal.fire({
@@ -60,4 +60,10 @@ document.querySelector("form[action='#']").addEventListener("submit", function(e
         showConfirmButton: false,
         timer: 2000
     });
+
+    document.getElementById("name").value = "";
+    document.getElementById("email").value = "";
+    document.getElementById("phone").value = "";
+    document.getElementById("headingEmail").value = "";
+    document.getElementById("message").value = "";
 });

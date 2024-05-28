@@ -13,7 +13,6 @@
     "@fontsource/aldrich": "^5.0.12",
     "@fontsource/orbitron": "^5.0.12",
     "@fontsource/rajdhani": "^5.0.8",
-    "@types/node": "^20.6.5",
     "clsx": "^2.0.0",
     "framer-motion": "^10.16.4",
     "react": "^18.3.1",
@@ -40,6 +39,6 @@
     "prettier-plugin-tailwindcss": "^0.5.4",
     "tailwindcss": "^3.3.3",
     "typescript": "^5.0.2",
-    "vite": "^4.4.5"
+    "vite": "^4.5.3"
   }
 }

@@ -1,0 +1,7 @@
+export { About } from './about'
+export { Banner } from './banner'
+export { Contact } from './contact'
+export { Header } from './header'
+export { Nav } from './nav'
+export { Services } from './services'
+export { Work } from './work'

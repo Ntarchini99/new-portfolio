@@ -75,7 +75,9 @@ export const About = () => {
             </div>
 
             <div className="flex items-center gap-x-8">
+              <a href="https://drive.google.com/drive/u/2/folders/1NTsLOckNhxho7UXg1FMa8A7Mab3eethM" target='blank'>
               <button className="btn btn-lg">Curriculum</button>
+              </a>
             </div>
           </motion.div>
         </div>

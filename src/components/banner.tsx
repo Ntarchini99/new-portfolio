@@ -53,7 +53,7 @@ export const Banner = () => {
                 className="mx-auto mb-8 max-w-lg lg:mx-0"
               >
                 Hola, me llamo Nazareno Tarchini. Soy Frontend Developer y Community Manager, me dedico
-                enteramente a la programacion web utilizando React JS.
+                enteramente a la programacion web utilizando React.
               </motion.p>
 
               <motion.div

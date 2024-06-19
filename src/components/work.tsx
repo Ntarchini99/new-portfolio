@@ -1,8 +1,8 @@
 import { motion } from 'framer-motion'
 
-import PortfolioImageOne from '@/assets/digitalsolutions.png'
-import PortfolioImageTwo from '@/assets/blacklabs.png'
-import PortfolioImageThree from '@/assets/cryptos.png'
+import PortfolioImageOne from '@/assets/cryptos.png'
+import PortfolioImageTwo from '@/assets/ds.png'
+import PortfolioImageThree from '@/assets/blacklabs.png'
 import { FadeDirection, fadeIn } from '@/util/variants'
 
 export const Work = () => {

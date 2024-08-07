@@ -25,8 +25,8 @@ export const Work = () => {
               </h2>
 
               <p className="mb-16 max-w-sm">
-                Estos son tres de los mejores proyectos que realice, el resto los podran
-                encontrar en mi repositorio de GITHUB.
+                Estos son tres de los mejores proyectos que realice como frontend freelance, el resto en mi repositorio de GITHUB. 
+                Los informes de Ciberseguridad son confidenciales de cada empresa.
               </p>
               <a href="https://github.com/Ntarchini99?tab=repositories" target='blank' >
                 <button className="btn btn-sm">Ver todos los proyectos</button>

@@ -52,8 +52,8 @@ export const Banner = () => {
                 viewport={{ once: true }}
                 className="mx-auto mb-8 max-w-lg lg:mx-0"
               >
-                Hola, me llamo Nazareno Tarchini. Soy Frontend Developer y Community Manager, me dedico
-                enteramente a la programacion web utilizando React.
+                Hola, me llamo Nazareno Tarchini. Soy Frontend Developer, Pentester y Community Manager, me dedico
+                enteramente a la programacion web utilizando React pero hago de pentesting.
               </motion.p>
 
               <motion.div
@@ -67,7 +67,7 @@ export const Banner = () => {
                   <button className="btn btn-lg">Contacto </button>
                 </a>
 
-                <a href="https://www.instagram.com/digitalsolutions_ok/" target='blank' className="text-gradient btn-link">
+                <a href="https://www.instagram.com/digitalsolutionsagencia/" target='blank' className="text-gradient btn-link">
                   Mi Agencia
                 </a>
               </motion.div>

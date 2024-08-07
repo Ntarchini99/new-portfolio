@@ -11,21 +11,31 @@ type Service = {
 
 const services: Service[] = [
   {
-    name: 'Diseño UI/UX',
-    description: (
-      <>
-        Dentro de mis servicios ofrezco Diseño UX UI, ya que cuento con mi equipo de trabajo el cual se encarga de los diseños
-        para luego comenzar a desarrollar las web.
-      </>
-    ),
-    link: '',
-  },
-  {
     name: 'Desarrollo Web',
     description: (
       <>
         Desarrollo web, trabajo en el desarrollo de aplicaciones web que cumplan las necesidades del cliente, ya sea
         desde una tienda hasta un portfolio o una landing page.
+      </>
+    ),
+    link: '',
+  },
+  {
+    name: 'Ciberseguridad',
+    description: (
+      <>
+        Pentesting para evaluar y mejorar la seguridad de tus sistemas. Identifico vulnerabilidades, realizo pruebas de penetración, analizo riesgos
+         y proporciono informes detallados con recomendaciones. También brindo consultoría en seguridad.
+      </>
+    ),
+    link: '',
+  },
+  {
+    name: 'Diseño UI/UX',
+    description: (
+      <>
+        Dentro de mis servicios ofrezco Diseño UX UI, ya que cuento con mi equipo de trabajo el cual se encarga de los diseños
+        para luego comenzar a desarrollar las web.
       </>
     ),
     link: '',
@@ -40,6 +50,7 @@ const services: Service[] = [
     ),
     link: '',
   }
+  
 ]
 
 export const Services = () => {

@@ -29,14 +29,13 @@ export const About = () => {
             className="flex-1"
           >
             <h2 className="h2 text-accent">Sobre mi</h2>
-            <h3 className="h3 mb-4">
-              Soy un desarrollador Frontend, actualmente Freelance.
+            <h3 className="h3 mb-2">
+              Desarrollador Frontend, Freelance.
             </h3>
-            <p className="mb-6">
-              Soy Desarrollador Web Frontend, trabajo con HTML5, CSS3, JavaScript y algo de Typescript, de framework trabajo con React y sus librerías.
-              Estoy familiarizado con Figma para los prototipos, tengo conocimientos en SEO y posicionamiento.
-              Me encanta trabajar en equipo y seguir aprendiendo cosas nuevas. Estudié de manera autodidacta desde 2021 y en 2023
-              realicé un curso en Coderhouse para obtener un certificado oficial.
+            <p className="mb-4">
+            Soy Desarrollador Frontend especializado en HTML5, CSS3, JavaScript y React, junto con sus librerías. Tengo experiencia en la creación de prototipos con Figma, conocimientos en SEO, servidores y posicionamiento web.
+            Además, me he formado en Ciberseguridad con un enfoque en PENTESTER y tengo experiencia como Community Manager.
+            Disfruto trabajar en equipo y estoy siempre dispuesto a aprender cosas nuevas. Comencé a estudiar de manera autodidacta en 2021 y en 2023 completé un curso en Coderhouse, donde obtuve un certificado oficial.
             </p>
 
             <div className="mb-12 flex gap-x-6 lg:gap-x-10">

@@ -53,7 +53,7 @@ export const Banner = () => {
                 className="mx-auto mb-8 max-w-lg lg:mx-0"
               >
                 Tengo 24 años. Soy Frontend Developer, Pentester y Community Manager, me dedico
-                enteramente a la programacion web utilizando React.
+                enteramente a la programacion web utilizando React, pero tambien hago informes de Ciberseguridad.
               </motion.p>
 
               <motion.div

@@ -34,8 +34,8 @@ export const About = () => {
             </h3>
             <p className="mb-4">
             Soy Desarrollador Frontend especializado en HTML5, CSS3, JavaScript y React, junto con sus librerías. Tengo experiencia en la creación de prototipos con Figma, conocimientos en SEO, servidores y posicionamiento web.
-            Además, me he formado en Ciberseguridad con un enfoque en PENTESTER y tengo experiencia como Community Manager.
-            Disfruto trabajar en equipo y estoy siempre dispuesto a aprender cosas nuevas. Comencé a estudiar de manera autodidacta en 2021 y en 2023 completé un curso en Coderhouse, donde obtuve un certificado oficial.
+            Además, me he formado en Ciberseguridad con un enfoque orientado a PENTESTER. Antes de la programacion, fui Community Manager freelance.
+            Comencé a estudiar de manera autodidacta en 2021 y en 2023 completé un curso en Coderhouse, donde obtuve un certificado oficial.
             </p>
 
             <div className="mb-12 flex gap-x-6 lg:gap-x-10">

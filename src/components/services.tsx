@@ -67,7 +67,7 @@ export const Services = () => {
           >
             <h2 className="h2 mb-6 text-accent">Servicios Ofrecidos</h2>
             <h3 className="h3 mb-16 max-w-[455px]">
-              Para adquirir cualquier servicio comunicate via whatsapp, email o instagram.
+              Para adquirir un servicio comunicarse via whatsapp, email o instagram.
             </h3>
           </motion.div>
 
@@ -98,12 +98,12 @@ export const Services = () => {
 
                     <div className="flex flex-1 flex-col items-end gap-y-[42px]">
                       <a
-                        href="https://www.instagram.com/digitalsolutions_ok/"
+                        href="https://www.instagram.com/digitalsolutionsagencia/"
                         className="btn flex h-9 w-9 items-center justify-center"
                       >
                         <BsArrowUpRight />
                       </a>
-                      <a href="https://www.instagram.com/digitalsolutions_ok/" className="text-gradient text-end text-sm">
+                      <a href="https://www.instagram.com/digitalsolutionsagencia/" className="text-gradient text-end text-sm">
                         {link}
                       </a>
                     </div>

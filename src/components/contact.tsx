@@ -55,11 +55,9 @@ export const Contact: React.FC = () => {
             className="flex flex-1 items-center justify-start"
           >
             <div>
-              <h2 className="h2 leading-tight text-accent">Ponete en contacto</h2>
+              <h2 className="h2 leading-tight text-accent">Completa el Formulario</h2>
               <h1 className="mb-12 text-[45px] leading-none lg:text-[90px]">
-                Trabajemos
-                <br />
-                juntos
+                Y trabajemos juntos
               </h1>
             </div>
           </motion.div>

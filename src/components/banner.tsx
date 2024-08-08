@@ -52,7 +52,7 @@ export const Banner = () => {
                 viewport={{ once: true }}
                 className="mx-auto mb-8 max-w-lg lg:mx-0"
               >
-                Hola, me llamo Nazareno Tarchini. Soy Frontend Developer, Pentester y Community Manager, me dedico
+                Tengo 24 años. Soy Frontend Developer, Pentester y Community Manager, me dedico
                 enteramente a la programacion web utilizando React.
               </motion.p>
 

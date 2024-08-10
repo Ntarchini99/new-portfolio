@@ -33,9 +33,8 @@ export const About = () => {
               Desarrollador Frontend, Freelance.
             </h3>
             <p className="mb-4">
-            Soy Desarrollador Frontend especializado en HTML5, CSS3, JavaScript y React, junto con sus librerías. Tengo experiencia en la creación de prototipos con Figma, conocimientos en SEO, servidores y posicionamiento web.
-            Además, me he formado en Ciberseguridad con un enfoque orientado a PENTESTER. Antes de la programacion, fui Community Manager freelance.
-            Comencé a estudiar de manera autodidacta en 2021 y en 2023 completé un curso en Coderhouse, donde obtuve un certificado oficial.
+              Soy un Desarrollador Frontend especializado en HTML5, CSS3, JavaScript y React, junto con sus librerías. Tengo conocimientos en la creación de prototipos con Figma, como tambien en SEO, servidores y posicionamiento web. Además, me he formado en Ciberseguridad con un enfoque orientado a PENTESTER.
+              Antes de dedicarme a la programación, trabajé como Community Manager freelance, lo que me permitió desarrollar habilidades en gestión de comunidades y estrategias digitales. Comencé a estudiar programación de manera autodidacta en 2021 y en 2023 completé un curso en Coderhouse.
             </p>
 
             <div className="mb-12 flex gap-x-6 lg:gap-x-10">
@@ -75,7 +74,7 @@ export const About = () => {
 
             <div className="flex items-center gap-x-8">
               <a href="https://drive.google.com/drive/u/2/folders/1NTsLOckNhxho7UXg1FMa8A7Mab3eethM" target='blank'>
-              <button className="btn btn-lg">Curriculum</button>
+                <button className="btn btn-lg">Curriculum</button>
               </a>
             </div>
           </motion.div>

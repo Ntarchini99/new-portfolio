@@ -14,8 +14,8 @@ const services: Service[] = [
     name: 'Desarrollo Web',
     description: (
       <>
-        Desarrollo web, trabajo en el desarrollo de aplicaciones web que cumplan las necesidades del cliente, ya sea
-        desde una tienda hasta un portfolio o una landing page.
+        Trabajo en el desarrollo de aplicaciones web que cumplan las necesidades de cada cliente. ya sea
+        desde una simple landing page, hasta un sitio web corporativo o una tienda con gran escalabilidad.
       </>
     ),
     link: '',
@@ -31,11 +31,11 @@ const services: Service[] = [
     link: '',
   },
   {
-    name: 'Diseño UI/UX',
+    name: 'Diseño Gráfico / UI/UX',
     description: (
       <>
-        Dentro de mis servicios ofrezco Diseño UX UI, ya que cuento con mi equipo de trabajo el cual se encarga de los diseños
-        para luego comenzar a desarrollar las web.
+        Ofrecemos servicios de Diseño Gráfico y UX/UI de alta calidad. Contamos con un equipo especializado que se dedica a crear diseños impactantes y funcionales, asegurando una experiencia de usuario excepcional.
+        Desde la conceptualización hasta el desarrollo web.
       </>
     ),
     link: '',
@@ -44,8 +44,8 @@ const services: Service[] = [
     name: 'Marketing Digital',
     description: (
       <>
-        Tengo una agencia digital, la cual contamos con servicios de marketing y redes sociales para impulsar
-        cualquier tipo de marca o negocio.
+        En nuestra agencia digital, nos especializamos en ofrecer servicios completos de marketing y gestión de redes sociales diseñados para potenciar cualquier tipo de marca o negocio.
+         Nuestro enfoque estratégico y creativo asegura un crecimiento sostenible y una mayor visibilidad en el mercado.
       </>
     ),
     link: '',

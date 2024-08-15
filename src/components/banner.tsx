@@ -67,7 +67,7 @@ export const Banner = () => {
                   <button className="btn btn-lg">Contacto </button>
                 </a>
 
-                <a href="https://www.instagram.com/digitalsolutionsagencia/" target='blank' className="text-gradient btn-link">
+                <a href="https://www.instagram.com/verttexagencia_/" target='blank' className="text-gradient btn-link">
                   Mi Agencia
                 </a>
               </motion.div>
@@ -85,7 +85,7 @@ export const Banner = () => {
                 <a href="https://github.com/Ntarchini99" target='blank'>
                   <FaGithub />
                 </a>
-                <a href="https://www.linkedin.com/in/nazareno-tarchini-bb08a2273/" target='blank'>
+                <a href="https://www.linkedin.com/in/nazareno-tarchini/" target='blank'>
                   <FaLinkedin />
                 </a>
                 <a href="https://www.instagram.com/nazatarchini/" target='blank'>

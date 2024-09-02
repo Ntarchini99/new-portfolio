@@ -52,8 +52,8 @@ export const Banner = () => {
                 viewport={{ once: true }}
                 className="mx-auto mb-8 max-w-lg lg:mx-0"
               >
-                Tengo 24 años. Soy Frontend Developer, Pentester y Community Manager, me dedico
-                enteramente a la programacion web utilizando React, tambien hago informes de Ciberseguridad.
+                Tengo 25 años. Soy Frontend Developer y Pentester. Me dedico
+                a la programacion web utilizando React, pero tambien hago informes de Ciberseguridad.
               </motion.p>
 
               <motion.div

@@ -25,7 +25,7 @@ const services: Service[] = [
     description: (
       <>
         Pentesting para evaluar y mejorar la seguridad de tus sistemas. Identifico vulnerabilidades, realizo pruebas de penetración, analizo riesgos
-         y proporciono informes detallados con recomendaciones. También brindo consultoría en seguridad.
+        y proporciono informes detallados con recomendaciones. También brindo consultoría en seguridad.
       </>
     ),
     link: '',
@@ -45,12 +45,12 @@ const services: Service[] = [
     description: (
       <>
         En nuestra agencia digital, nos especializamos en ofrecer servicios completos de marketing y gestión de redes sociales diseñados para potenciar cualquier tipo de marca o negocio.
-         Nuestro enfoque estratégico y creativo asegura un crecimiento sostenible y una mayor visibilidad en el mercado.
+        Nuestro enfoque estratégico y creativo asegura un crecimiento sostenible y una mayor visibilidad en el mercado.
       </>
     ),
     link: '',
   }
-  
+
 ]
 
 export const Services = () => {

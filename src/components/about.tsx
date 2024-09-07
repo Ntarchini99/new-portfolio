@@ -29,11 +29,11 @@ export const About = () => {
             className="flex-1"
           >
             <h2 className="h2 text-accent">Sobre mi</h2>
-            <h3 className="h3 mb-2">
-              Desarrollador Frontend, Freelance.
-            </h3>
+            {/* <h3 className="h3 mb-2">
+              Desarrollador Freelance.
+            </h3> */}
             <p className="mb-4">
-              Soy un Desarrollador Frontend especializado en HTML5, CSS3, JavaScript y React, junto con sus librerías. Tengo conocimientos en la creación de prototipos con Figma, como tambien en SEO, servidores y posicionamiento web. Además, me he formado en Ciberseguridad con un enfoque orientado al PENTESTER.
+              Soy un Desarrollador web especializado en Frontend con REACT. Tengo conocimientos en la creación de prototipos con Figma, como tambien en SEO y servidores. Además, me he formado en Ciberseguridad con un enfoque orientado al PENTESTER.
               Comencé a estudiar programación de manera autodidacta en 2021 y en 2023 completé un curso en Coderhouse con el fin de obtener un certificado oficial.
             </p>
 

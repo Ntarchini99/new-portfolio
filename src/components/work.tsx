@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion'
 
 import PortfolioImageOne from '@/assets/cryptos.png'
-import PortfolioImageTwo from '@/assets/ds.png'
+import PortfolioImageTwo from '@/assets/cloudhaven.png'
 import PortfolioImageThree from '@/assets/blacklabs.png'
 import { FadeDirection, fadeIn } from '@/util/variants'
 
@@ -25,7 +25,7 @@ export const Work = () => {
               </h2>
 
               <p className="mb-16 max-w-sm">
-                Estos son tres de los mejores proyectos que realice como frontend freelance, el resto en mi repositorio de GITHUB. 
+                Estos son tres de los mejores proyectos que realice como frontend freelance, el resto en mi repositorio de GITHUB.
                 Los informes de Ciberseguridad son confidenciales de cada empresa.
               </p>
               <a href="https://github.com/Ntarchini99?tab=repositories" target='blank' >

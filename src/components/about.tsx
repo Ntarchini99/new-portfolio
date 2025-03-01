@@ -29,9 +29,7 @@ export const About = () => {
             className="flex-1"
           >
             <h2 className="h2 text-accent">Sobre mi</h2>
-            {/* <h3 className="h3 mb-2">
-              Desarrollador Freelance.
-            </h3> */}
+
             <p className="mb-4">
               Soy un Desarrollador web especializado en Frontend con REACT. Tengo conocimientos en la creación de prototipos con Figma, como tambien en SEO y servidores. Además, me he formado en Ciberseguridad con un enfoque orientado al PENTESTER.
               Comencé a estudiar programación de manera autodidacta en 2021 y en 2023 completé un curso en Coderhouse con el fin de obtener un certificado oficial.
@@ -70,12 +68,6 @@ export const About = () => {
                   Satisfechos
                 </div>
               </div>
-            </div>
-
-            <div className="flex items-center gap-x-8">
-              <a href="https://drive.google.com/drive/u/2/folders/1NTsLOckNhxho7UXg1FMa8A7Mab3eethM" target='blank'>
-                <button className="btn btn-lg">Curriculum</button>
-              </a>
             </div>
           </motion.div>
         </div>

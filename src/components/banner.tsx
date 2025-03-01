@@ -1,5 +1,5 @@
 import Avatar from '@/assets/art.png'
-import { FaGithub, FaTiktok, FaInstagram, FaLinkedin, FaWhatsapp } from 'react-icons/fa'
+import { FaGithub, FaInstagram, FaLinkedin, } from 'react-icons/fa'
 import { TypeAnimation } from 'react-type-animation'
 import { motion } from 'framer-motion'
 import { fadeIn, FadeDirection } from '@/util/variants'
@@ -79,9 +79,6 @@ export const Banner = () => {
                 viewport={{ once: true }}
                 className="mx-auto flex max-w-max gap-x-6 text-[20px] lg:mx-0"
               >
-                <a href="#">
-                  <FaTiktok />
-                </a>
                 <a href="https://github.com/Ntarchini99" target='blank'>
                   <FaGithub />
                 </a>
@@ -90,9 +87,6 @@ export const Banner = () => {
                 </a>
                 <a href="https://www.instagram.com/nazatarchini/" target='blank'>
                   <FaInstagram />
-                </a>
-                <a href="https://api.whatsapp.com/send?phone=3484365436" target='blank'>
-                  <FaWhatsapp />
                 </a>
               </motion.div>
             </div>

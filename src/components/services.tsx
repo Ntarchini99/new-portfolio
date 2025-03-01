@@ -21,31 +21,11 @@ const services: Service[] = [
     link: '',
   },
   {
-    name: 'Ciberseguridad',
-    description: (
-      <>
-        Pentesting para evaluar y mejorar la seguridad de tus sistemas. Identifico vulnerabilidades, realizo pruebas de penetración, analizo riesgos
-        y proporciono informes detallados con recomendaciones. También brindo consultoría en seguridad.
-      </>
-    ),
-    link: '',
-  },
-  {
     name: 'Diseño Gráfico / UI/UX',
     description: (
       <>
-        Ofrecemos servicios de Diseño Gráfico y UX/UI de alta calidad. Contamos con un equipo especializado que se dedica a crear diseños impactantes y funcionales, asegurando una experiencia de usuario excepcional.
+        Ofrecemos servicios de Diseño Gráfico y UX/UI de alta calidad. Cuento con un equipo especializado que se dedica a crear diseños impactantes y funcionales, asegurando una experiencia de usuario excepcional.
         Desde la conceptualización hasta el desarrollo web.
-      </>
-    ),
-    link: '',
-  },
-  {
-    name: 'Marketing Digital',
-    description: (
-      <>
-        En nuestra agencia digital, nos especializamos en ofrecer servicios completos de marketing y gestión de redes sociales diseñados para potenciar cualquier tipo de marca o negocio.
-        Nuestro enfoque estratégico y creativo asegura un crecimiento sostenible y una mayor visibilidad en el mercado.
       </>
     ),
     link: '',
@@ -67,7 +47,7 @@ export const Services = () => {
           >
             <h2 className="h2 mb-6 text-accent">Servicios Ofrecidos</h2>
             <h3 className="h3 mb-16 max-w-[455px]">
-              Para adquirir un servicio comunicarse via whatsapp, email o instagram.
+              Para adquirir un servicio comunicarse via whatsapp o email.
             </h3>
           </motion.div>
 
@@ -98,12 +78,12 @@ export const Services = () => {
 
                     <div className="flex flex-1 flex-col items-end gap-y-[42px]">
                       <a
-                        href="https://www.instagram.com/digitalsolutionsagencia/"
+                        href="https://www.instagram.com/verttexdigital/"
                         className="btn flex h-9 w-9 items-center justify-center"
                       >
                         <BsArrowUpRight />
                       </a>
-                      <a href="https://www.instagram.com/digitalsolutionsagencia/" className="text-gradient text-end text-sm">
+                      <a href="https://www.instagram.com/verttexdigital/" className="text-gradient text-end text-sm">
                         {link}
                       </a>
                     </div>
